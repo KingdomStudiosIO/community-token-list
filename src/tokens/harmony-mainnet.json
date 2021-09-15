@@ -126,5 +126,13 @@
       "name": "FOX Finance",
       "decimals": 18,
       "logoURI": "https://cdn.discordapp.com/attachments/886494799320997889/887094958358687754/fox.png"
+    },{
+      "chainId": 1666600000,
+      "address": "0x8Eb03202275bD598AdC23678008eF88655544910",
+      "symbol": "RADI",
+      "name": "Radiant",
+      "decimals": 18,
+      "logoURI": "https://cdn.discordapp.com/attachments/887446197919428609/887482231218655252/RADI_Logo.png"
     }
+      
 ]
