@@ -142,5 +142,13 @@
     "name": "Artemis",
     "decimals": 18,
     "logoURI": "https://user-images.githubusercontent.com/90807212/136670698-9295534d-504a-4c00-96b6-10b7cc6eac19.png"
+  },
+{
+    "chainId": 1666600000,
+    "address": "0x277956523f088b73d968b5659256e76e61349a7e",
+    "symbol": "bscwBBT",
+    "name": "wBUYBACK",
+    "decimals": 18,
+    "logoURI": "https://ipfs.io/ipfs/QmeEgT6aHzr6CMCtEKdAzm4hDgJJNhw78jA6yQqAD5Kc3q"
   }
 ]
