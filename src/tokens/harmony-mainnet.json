@@ -142,5 +142,13 @@
     "name": "Artemis",
     "decimals": 18,
     "logoURI": "https://user-images.githubusercontent.com/90807212/136670698-9295534d-504a-4c00-96b6-10b7cc6eac19.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x44aFdBe2Cb42cc18759159f7E383afb0Ca8E57aD",
+    "symbol": "SMUG",
+    "name": "SmugDoge.com",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/smugdoge/icon/master/smugdoge-icon.png"
   }
 ]
