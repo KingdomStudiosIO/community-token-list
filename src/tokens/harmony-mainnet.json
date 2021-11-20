@@ -121,6 +121,14 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x1b2bc2683F85bFb9c4C90e8322d62A20B97cF87D",
+    "symbol": "1MM",
+    "name": "Million",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/techleadhd/milliontoken/gh-pages/logo256x256.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687",
     "symbol": "FOX",
     "name": "FOX Finance",
