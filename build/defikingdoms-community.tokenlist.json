@@ -156,6 +156,15 @@
       "name": "Freyala",
       "decimals": 18,
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FXYA.png?alt=media"
+    },
+
+    {
+      "chainId": 1666600000,
+      "address": "0xda7fe71960cd1c19e1b86d6929efd36058f60a03",
+      "symbol": "LUMEN",
+      "name": "LUMEN",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/tranquility-city.appspot.com/o/LUMEN.png?alt=media&token=a5d40e99-b1f0-4807-a4f9-cb13d4a89d90"
     }
   ]
 }
