@@ -137,13 +137,13 @@
   },
   {
     "chainId": 1666600000,
-    "address": "0xd74433b187cf0ba998ad9be3486b929c76815215",
+    "address": "0xD74433B187Cf0ba998Ad9Be3486B929c76815215",
     "symbol": "MIS",
     "name": "Artemis",
     "decimals": 18,
     "logoURI": "https://user-images.githubusercontent.com/90807212/136670698-9295534d-504a-4c00-96b6-10b7cc6eac19.png"
   },
-  	{
+  {
 		"chainId": 1666600000,
 		"address": "0xbbd83ef0c9d347c85e60f1b5d2c58796dbe1ba0d",
 		"symbol": "CHEEZ",
