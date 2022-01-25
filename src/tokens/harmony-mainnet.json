@@ -142,5 +142,13 @@
     "name": "Artemis",
     "decimals": 18,
     "logoURI": "https://user-images.githubusercontent.com/90807212/136670698-9295534d-504a-4c00-96b6-10b7cc6eac19.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x8e56ca9d40c97bbe4705305a1ec2c89941292640",
+    "symbol": "CHK",
+    "name": "CHONK",
+    "decimals": 18,
+    "logoURI": "https://mega.nz/file/FglzmI4Y#LHRFiV2yAFYCuMeti7au-5mqpdSH_SkCCNheofJm3HQ"
   }
 ]
