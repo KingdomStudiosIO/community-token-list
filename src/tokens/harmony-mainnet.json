@@ -142,5 +142,21 @@
     "name": "Artemis",
     "decimals": 18,
     "logoURI": "https://user-images.githubusercontent.com/90807212/136670698-9295534d-504a-4c00-96b6-10b7cc6eac19.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xb9E05B4C168B56F73940980aE6EF366354357009",
+    "symbol": "QUARTZ",
+    "name": "quartz.defi",
+    "decimals": 18,
+    "logoURI": "https://cld.pt/dl/download/ca1947b9-ca39-4e87-8f22-b8ba5324f351/quartz-128x128.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xFa4b16b0f63F5A6D0651592620D585D308F749A4",
+    "symbol": "QSHARE",
+    "name": "QShare",
+    "decimals": 18,
+    "logoURI": "https://cld.pt/dl/download/cc400ab3-6415-414d-864e-6bc10667d594/qshare-128x128.png"
   }
 ]
