@@ -1,14 +1,17 @@
 {
   "name": "DFK Community",
-  "timestamp": "2022-04-19T23:02:04.397Z",
+  "timestamp": "2022-04-19T23:08:18.066Z",
   "version": {
     "major": 4,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tags": {},
   "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media&token=729d388d-1013-4bed-a194-77ba8e53e79d",
-  "keywords": ["defikingdoms", "community"],
+  "keywords": [
+    "defikingdoms",
+    "community"
+  ],
   "tokens": [
     {
       "chainId": 1666600000,
@@ -124,7 +127,7 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0xd74433b187cf0ba998ad9be3486b929c76815215",
+      "address": "0xD74433B187Cf0ba998Ad9Be3486B929c76815215",
       "symbol": "MIS",
       "name": "Artemis",
       "decimals": 18,
