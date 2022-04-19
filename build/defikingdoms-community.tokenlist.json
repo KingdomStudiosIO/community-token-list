@@ -1,6 +1,6 @@
 {
   "name": "DFK Community",
-  "timestamp": "2021-11-12T15:27:03.213Z",
+  "timestamp": "2022-04-19T23:02:04.397Z",
   "version": {
     "major": 4,
     "minor": 2,
@@ -8,10 +8,7 @@
   },
   "tags": {},
   "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media&token=729d388d-1013-4bed-a194-77ba8e53e79d",
-  "keywords": [
-    "defikingdoms",
-    "community"
-  ],
+  "keywords": ["defikingdoms", "community"],
   "tokens": [
     {
       "chainId": 1666600000,
@@ -111,6 +108,14 @@
     },
     {
       "chainId": 1666600000,
+      "address": "0xc5843b3Dd9b912fd5958e5b1d1f27189eF7189Da",
+      "symbol": "KNIGHT",
+      "name": "Knight",
+      "decimals": 18,
+      "logoURI": "https://www.knightsandpeasants.one/images/iconLogo.webp"
+    },
+    {
+      "chainId": 1666600000,
       "address": "0x3E018675c0Ef63eB361b9EF4bfEa3A3294C74C7b",
       "symbol": "KURO",
       "name": "Kuro Shiba",
@@ -156,14 +161,6 @@
       "name": "Freyala",
       "decimals": 18,
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FXYA.png?alt=media"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0xDA7fE71960cd1C19E1b86D6929efD36058F60a03",
-      "symbol": "LUMEN",
-      "name": "LUMEN",
-      "decimals": 18,
-      "logoURI": "https://firebasestorage.googleapis.com/v0/b/tranquility-city.appspot.com/o/LUMEN.png?alt=media&token=a5d40e99-b1f0-4807-a4f9-cb13d4a89d90"
     }
   ]
 }
