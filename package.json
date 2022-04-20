@@ -1,6 +1,6 @@
 {
   "name": "@defikingdoms/community-token-list",
-  "version": "5.3.0",
+  "version": "6.3.0",
   "description": "◦ The Defi Kingdoms default token list",
   "main": "build/defikingdoms-community.tokenlist.json",
   "scripts": {
