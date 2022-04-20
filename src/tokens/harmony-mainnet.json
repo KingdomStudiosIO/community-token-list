@@ -143,7 +143,15 @@
     "decimals": 18,
     "logoURI": "https://user-images.githubusercontent.com/90807212/136670698-9295534d-504a-4c00-96b6-10b7cc6eac19.png"
   },
-    {
+  {
+    "chainId": 1666600000,
+    "address": "0x5DCE7A3E8B53387A9Ee1cE0d855b7A8d948100A3",
+    "symbol": "GRAV",
+    "name": "Gravity",
+    "decimals": 18,
+    "logoURI": "https://cdn.discordapp.com/attachments/931088719107215400/947942804498309170/Asset_6.png"
+  },
+  {
     "chainId": 1666600000,
     "address": "0xc5843b3Dd9b912fd5958e5b1d1f27189eF7189Da",
     "symbol": "KNIGHT",
