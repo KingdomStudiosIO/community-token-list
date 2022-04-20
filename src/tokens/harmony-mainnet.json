@@ -150,4 +150,13 @@
     "name": "Gravity",
     "decimals": 18,
     "logoURI": "https://cdn.discordapp.com/attachments/931088719107215400/947942804498309170/Asset_6.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xc5843b3Dd9b912fd5958e5b1d1f27189eF7189Da",
+    "symbol": "KNIGHT",
+    "name": "Knight",
+    "decimals": 18,
+    "logoURI": "https://www.knightsandpeasants.one/images/iconLogo.webp"
+  }
 ]
