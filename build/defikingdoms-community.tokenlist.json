@@ -1,9 +1,9 @@
 {
   "name": "DFK Community",
-  "timestamp": "2022-04-20T05:19:55.752Z",
+  "timestamp": "2022-04-28T18:15:50.570Z",
   "version": {
     "major": 6,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "tags": {},
@@ -132,6 +132,14 @@
       "name": "Kuro Shiba",
       "decimals": 9,
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FKURO.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x892D81221484F690C0a97d3DD18B9144A3ECDFB7",
+      "symbol": "MAGIC",
+      "name": "Magic",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/19313/large/13037.png?1635025843"
     },
     {
       "chainId": 1666600000,
