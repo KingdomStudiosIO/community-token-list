@@ -1,9 +1,9 @@
 {
   "name": "DFK Community",
-  "timestamp": "2022-04-20T05:19:55.752Z",
+  "timestamp": "2024-04-15T18:25:16.898Z",
   "version": {
-    "major": 6,
-    "minor": 3,
+    "major": 7,
+    "minor": 0,
     "patch": 0
   },
   "tags": {},
@@ -13,6 +13,14 @@
     "community"
   ],
   "tokens": [
+    {
+      "chainId": 53935,
+      "address": "0x11C3b7bADC5359242c34C68C1F0f071bFf49a3D8",
+      "symbol": "HONK",
+      "name": "Honk",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FHONK.png?alt=media"
+    },
     {
       "chainId": 1666600000,
       "address": "0x34704c70e9eC9fB9A921da6DAAD7D3e19f43c734",

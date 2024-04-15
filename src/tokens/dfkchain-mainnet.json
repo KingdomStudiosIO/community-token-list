@@ -1,0 +1,10 @@
+[
+  {
+    "chainId": 53935,
+    "address": "0x11C3b7bADC5359242c34C68C1F0f071bFf49a3D8",
+    "symbol": "HONK",
+    "name": "Honk",
+    "decimals": 18,
+    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FHONK.png?alt=media"
+  }
+]
