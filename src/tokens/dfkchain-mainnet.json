@@ -6,5 +6,13 @@
     "name": "Honk",
     "decimals": 18,
     "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FHONK.png?alt=media"
+  },
+  {
+    "chainId": 53935,
+    "address": "0x0dfae7b8548a60AA316286ff4E3C9549450eB06c",
+    "symbol": "BLO",
+    "name": "BLO",
+    "decimals": 18,
+    "logoURI": "https://bloatercoin.com/logo.png"
   }
 ]
