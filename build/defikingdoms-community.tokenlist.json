@@ -1,9 +1,9 @@
 {
   "name": "DFK Community",
-  "timestamp": "2024-04-15T18:25:16.898Z",
+  "timestamp": "2024-06-26T21:10:37.158Z",
   "version": {
     "major": 7,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {},
@@ -13,6 +13,14 @@
     "community"
   ],
   "tokens": [
+    {
+      "chainId": 53935,
+      "address": "0x0dfae7b8548a60AA316286ff4E3C9549450eB06c",
+      "symbol": "BLO",
+      "name": "BLO",
+      "decimals": 18,
+      "logoURI": "https://bloatercoin.com/logo.png"
+    },
     {
       "chainId": 53935,
       "address": "0x11C3b7bADC5359242c34C68C1F0f071bFf49a3D8",
