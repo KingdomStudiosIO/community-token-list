@@ -7,6 +7,14 @@
     "decimals": 18,
     "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FBABYJEWEL.png?alt=media"
   },
+   {
+    "chainId": 1666600000,
+    "address": "0x8D760497554eecC3B9036fb0364156ef2F0D02BC",
+    "symbol": "HLY",
+    "name": "HolyGrail",
+    "decimals": 18,
+    "logoURI": "https://holygrail.one/hly.png"
+  },
   {
     "chainId": 1666600000,
     "address": "0xc0431Ddcc0D213Bf27EcEcA8C2362c0d0208c6DC",
